@@ -1,3 +1,13 @@
+#echo "# ppmtools" >> README.md
+#git init
+#git add README.md
+#git commit -m "first commit"
+#git remote add origin https://github.com/mhanchini/ppmtools.git
+#git push -u origin master
+
+#git remote add origin https://github.com/mhanchini/ppmtools.git
+#git push -u origin master
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -32,5 +42,3 @@ build/
 
 /.idea/
 /.mvn/
-mvnw
-mvnw.cmd
