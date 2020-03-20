@@ -8,6 +8,13 @@
 #git remote add origin https://github.com/mhanchini/ppmtools.git
 #git push -u origin master
 
+#git rm -r --cached .
+#git add .
+#git commit -m "fixed untracked files"
+
+.gitignore
+mvnw
+mvnw.cmd
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
