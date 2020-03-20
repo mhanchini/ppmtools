@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de3cabfb-d88f-4466-a224-be4b1da4dd61" name="Default Changelist" comment="">
+    <list default="true" id="de3cabfb-d88f-4466-a224-be4b1da4dd61" name="Default Changelist" comment="First Commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584696567303</updated>
-      <workItem from="1584696573232" duration="8546000" />
+      <workItem from="1584696573232" duration="9622000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1584696912823</created>
@@ -148,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584711921495</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="First Commit">
+      <created>1584712015354</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584712015354</updated>
+    </task>
+    <task id="LOCAL-00012" summary="First Commit">
+      <created>1584712084371</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1584712084371</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,12 +172,42 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
           </value>
         </entry>
       </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
@@ -174,10 +219,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="125" y="36" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1584703749918" />
-    <state x="294" y="0" key="CommitChangelistDialog2" timestamp="1584712073141">
+    <state x="294" y="0" key="CommitChangelistDialog2" timestamp="1584712605011">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="294" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584712073141" />
+    <state x="294" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584712605011" />
     <state x="438" y="84" key="FileChooserDialogImpl" timestamp="1584697776159">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -234,6 +279,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="469" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1584712038900" />
+    <state x="126" y="147" key="git4idea.merge.GitMergeDialog" timestamp="1584712233903">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="126" y="147" key="git4idea.merge.GitMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1584712233903" />
     <state x="386" y="143" key="git4idea.merge.GitPullDialog" timestamp="1584699863132">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
