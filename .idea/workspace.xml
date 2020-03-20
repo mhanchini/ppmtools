@@ -36,7 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Angular Projects/bmnrokeu - Integrated with AdminLTE 2.4.17" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -76,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584696567303</updated>
-      <workItem from="1584696573232" duration="10570000" />
+      <workItem from="1584696573232" duration="11135000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1584696912823</created>
@@ -183,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584713792335</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="First Commit">
+      <created>1584714017558</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1584714017558</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,14 +246,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="125" y="36" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1584703749918" />
-    <state x="294" y="0" key="CommitChangelistDialog2" timestamp="1584713791249">
+    <state x="294" y="0" key="CommitChangelistDialog2" timestamp="1584714016660">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="294" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584713791249" />
-    <state x="438" y="84" key="FileChooserDialogImpl" timestamp="1584697776159">
+    <state x="294" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584714016660" />
+    <state x="438" y="84" key="FileChooserDialogImpl" timestamp="1584714085792">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="438" y="84" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584697776159" />
+    <state x="438" y="84" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584714085792" />
     <state x="496" y="257" width="346" height="165" key="Github.CreateGistDialog" timestamp="1584696717540">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -295,10 +302,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="161" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584702558664" />
-    <state x="250" y="76" key="Vcs.Push.Dialog.v2" timestamp="1584711806893">
+    <state x="250" y="76" key="Vcs.Push.Dialog.v2" timestamp="1584714354153">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="250" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1584711806893" />
+    <state x="250" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1584714354153" />
     <state x="469" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584713875708">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
