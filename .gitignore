@@ -1,11 +1,12 @@
-mvnw
-mvnw.cmd
-mygit.md
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+mvnw
+mvnw.cmd
+mygit.mji
+README.md
 
 ### STS ###
 .apt_generated
