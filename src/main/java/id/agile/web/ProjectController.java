@@ -25,7 +25,7 @@ public class ProjectController {
                     BindingResult result
             ) {
         if (result.hasErrors()) {
-            return new ResponseEntity<String>("Invalid Objects!", HttpStatus.valueOf(404));
+            return new ResponseEntity<String>("Invalid Objects!", HttpStatus.valueOf(444));
         }
         Project project1 = projectService.saveOrUpdateProject(project);
         return new ResponseEntity<Project>(project, HttpStatus.CREATED);
