@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de3cabfb-d88f-4466-a224-be4b1da4dd61" name="Default Changelist" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+    <list default="true" id="de3cabfb-d88f-4466-a224-be4b1da4dd61" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584696567303</updated>
-      <workItem from="1584696573232" duration="8299000" />
+      <workItem from="1584696573232" duration="8546000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1584696912823</created>
@@ -136,7 +134,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584703313602</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="First Commit">
+      <created>1584711749547</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584711749547</updated>
+    </task>
+    <task id="LOCAL-00010" summary="First Commit">
+      <created>1584711921495</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584711921495</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,10 +174,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="125" y="36" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1584703749918" />
-    <state x="294" y="0" key="CommitChangelistDialog2" timestamp="1584711838449">
+    <state x="294" y="0" key="CommitChangelistDialog2" timestamp="1584711920607">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="294" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584711838449" />
+    <state x="294" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584711920607" />
     <state x="438" y="84" key="FileChooserDialogImpl" timestamp="1584697776159">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -218,10 +230,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="250" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1584711806893" />
-    <state x="469" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584698617695">
+    <state x="469" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584711975778">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="469" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1584698617695" />
+    <state x="469" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1584711975778" />
     <state x="386" y="143" key="git4idea.merge.GitPullDialog" timestamp="1584699863132">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
