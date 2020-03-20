@@ -8,6 +8,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
 
+import javax.servlet.http.HttpServletResponse;
 import javax.validation.Valid;
 
 @RestController
@@ -25,7 +26,7 @@ public class ProjectController {
                     BindingResult result
             ) {
         if (result.hasErrors()) {
-            return new ResponseEntity<String>("Invalid Objects!", HttpStatus.valueOf(444));
+            return ResponseEntity.status(444).body("Invalid Objects");
         }
         Project project1 = projectService.saveOrUpdateProject(project);
         return new ResponseEntity<Project>(project, HttpStatus.CREATED);
